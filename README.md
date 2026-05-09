@@ -139,8 +139,7 @@ This project is available for educational purposes. Please check individual data
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@DaniyalAneeq](https://github.com/DaniyalAneeq)
 
 ## 🙏 Acknowledgments
 
